@@ -15,7 +15,7 @@
     <li><p>3. Namakan kembali file duplikat tersebut menjadi .env</p></li>
     <li><p>4. Ketikan<code>composer install</code></p></li>
     <li><p>5. Ketikan<code>php artisan key:generate</code></p></li>
-    <li><p>6. jika ingin melihat template didalam folder sesebut terdapat index.html</p></li>
+    <li><p>6. jika ingin melihat template didalam folder tesebut terdapat index.html</p></li>
     <li><p>7. atau jika ingin asset master dan sudah dipisah atau sudah melekat di laravel maka ketikan <code>php artisan serve</code></p></li>
     <li><p>8. Jika sudah selesai code silakan hapus index.html, folder bower_components, default, css, icons, img, dan js</p></li>
 </ul>
